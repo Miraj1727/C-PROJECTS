@@ -27,7 +27,7 @@ This program demonstrates a basic graphical user interface (GUI) application usi
    app.exe
 
 ## Output
-<img src="./Output/Output.png" alt="HelloWin">
+<img src="./Output/Output1.png" alt="HelloWin">
 
 
 
