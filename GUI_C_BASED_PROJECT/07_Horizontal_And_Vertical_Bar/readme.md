@@ -27,7 +27,7 @@ This project demonstrates C Windows application demonstrates the implementation 
    app.exe
 
 ## Output
-<img src="./Output/Output1.png" alt="HelloWin">
+<img src="https://github.com/Miraj1727/C-PROJECTS/blob/main/GUI_C_BASED_PROJECT/07_Horizontal_And_Vertical_Bar/Output/Output.1.png" alt="HelloWin">
 
 
 
