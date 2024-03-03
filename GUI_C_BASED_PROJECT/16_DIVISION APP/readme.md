@@ -1,4 +1,4 @@
-# Multiplication Project
+# Division Project
 
 This is a simple Windows application written in C using the WinAPI. It creates a basic graphical user interface (GUI) where users can input two numbers and perform division. The application displays the result of the division operation in a designated area within the window.
 
